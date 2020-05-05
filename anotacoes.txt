@@ -1,0 +1,6 @@
+# php-016-a-laravel-controle-series
+
+# Anotações:
+- aula 01 preparando o ambiente
+    - criar projeto na versão 5.8:
+        composer create-project --prefer-dist laravel/laravel controle-series 5.8.*
