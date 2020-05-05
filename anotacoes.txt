@@ -10,3 +10,4 @@
         php artisan serve
 - aula 02 introdução ao mvc
 - aula 02 roteando para um controller
+- aula 02 aprendendo a lidar com o request
