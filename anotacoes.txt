@@ -8,3 +8,5 @@
     - executar o projeto:
         cd controle-series
         php artisan serve
+- aula 02 introdução ao mvc
+- aula 02 roteando para um controller
