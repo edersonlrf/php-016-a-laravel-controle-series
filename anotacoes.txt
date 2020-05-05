@@ -4,3 +4,7 @@
 - aula 01 preparando o ambiente
     - criar projeto na versão 5.8:
         composer create-project --prefer-dist laravel/laravel controle-series 5.8.*
+- aula 01 introdução ao laravel
+    - executar o projeto:
+        cd controle-series
+        php artisan serve
