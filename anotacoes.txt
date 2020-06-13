@@ -26,3 +26,4 @@
     php artisan make:migration criar_tabela_series
     php artisan migrate
 - Aula 04 MVC - Model: Eloquent ORM
+- Aula 04 MVC - Model: Buscando as séries no banco
