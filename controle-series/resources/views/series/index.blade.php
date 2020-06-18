@@ -5,6 +5,12 @@
 @endsection
 
 @section('conteudo')
+    @if( ! empty($mensagem))
+        <div class="alert alert-success">
+            {{ $mensagem }}
+        </div>
+    @endif
+
     <a href="/series/adicionar" class="btn btn-dark mb-5">Adicionar</a>
 
     <ul class="list-group">

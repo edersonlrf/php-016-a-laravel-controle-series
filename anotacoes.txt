@@ -28,3 +28,4 @@
 - Aula 04 MVC - Model: Eloquent ORM
 - Aula 04 MVC - Model: Buscando as séries no banco
 - Aula 05 Lapidando a aplicação: Tipos de resposta
+- Aula 05 Lapidando a aplicação: Session e flash messages
